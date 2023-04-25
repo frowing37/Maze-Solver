@@ -1,0 +1,14 @@
+E:\bulmaca1\bin\Debug\bulmaca1.exe.config
+E:\bulmaca1\bin\Debug\bulmaca1.exe
+E:\bulmaca1\bin\Debug\bulmaca1.pdb
+E:\bulmaca1\obj\Debug\bulmaca1.csproj.AssemblyReference.cache
+E:\bulmaca1\obj\Debug\bulmaca1.Properties.Resources.resources
+E:\bulmaca1\obj\Debug\bulmaca1.csproj.GenerateResource.cache
+E:\bulmaca1\obj\Debug\bulmaca1.csproj.CoreCompileInputs.cache
+E:\bulmaca1\obj\Debug\bulmaca1.exe
+E:\bulmaca1\obj\Debug\bulmaca1.pdb
+E:\bulmaca1\obj\Debug\bulmaca1.Form1.resources
+E:\bulmaca1\bin\Debug\AltoHttp.dll
+E:\bulmaca1\bin\Debug\Newtonsoft.Json.dll
+E:\bulmaca1\bin\Debug\Newtonsoft.Json.xml
+E:\bulmaca1\obj\Debug\bulmaca1.csproj.CopyComplete
